@@ -1,6 +1,5 @@
 import React from 'react';
-// import logo from '../../keops-logo/starwars.png';
-import logo from '../../keops-logo/Logo-full.png';
+ import logo from '../../sample-logo/starwars.png';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
